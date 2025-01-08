@@ -1,1 +1,1 @@
-mrdami.github.io
+portfolio/resume
